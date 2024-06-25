@@ -1,0 +1,356 @@
+   <div class="page-6 w-full h-screen">
+      <div class="hed text-center">
+        <h1 class="text-5xl capitalize font-serif w-full">
+          what people are saying
+        </h1>
+      </div>
+
+      <div class="slide w-full ">
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_Terra_1600x1862px_1b9aa182-4950-47e2-b08d-ff6771f43890_large.png?v=1660704444" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-950 text-white h-full">
+          <p>  " My favourite aleph product has to be Ascend. I use it every day as
+            a beautiful lip and cheek tint but I also use it as eyeshadow as it
+            has such a nice warming colour.”
+          </p>
+          <p>carliyi</p>
+         <div class="star">
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+         </div>
+          </div>
+          <div class="imggg w-1/2">
+            <img src="https://alephbeauty.com/cdn/shop/files/ann-maree-quote-4256_large.jpg?v=1660704676" alt="">
+          </div>
+        </div>
+
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_CF-3.0_1600x1862px_large.png?v=1660704956" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-800 h-full">
+          <p>  " My favourite aleph product has to be Ascend. I use it every day as
+            a beautiful lip and cheek tint but I also use it as eyeshadow as it
+            has such a nice warming colour.”
+          </p>
+          <p>carliyi</p>
+         <div class="star">
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+         </div>
+          </div>
+          <div class="imggg w-1/2">
+            <img src="https://alephbeauty.com/cdn/shop/files/Sakura_M_large.jpg?v=1660704898" alt="">
+          </div>
+        </div>
+
+
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/sangha_800x.png?v=1663815801" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-700 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-5 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_CF-3.0_1600x1862px_large.png?v=1660704956" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-500 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-4 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/Aleph-Mascara-Fan-Brush_3200x3724px_3fe04669-58eb-4075-bb4e-6279bb16be65_large.png?v=1664836371" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-gray-400   h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-3 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/aleph-cl-asc-mm_large.png?v=1663546460" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-500 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-2 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/3g-Jar_Onyx_1600x1862px_large.png?v=1660705514" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-black text-white h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-1 w-1/2">
+            
+            </div>
+       
+      </div>
+      
+
+
+
+
+
+
+
+
+
+
+
+    _____________________________________________________________________________________________________________________________
+
+
+      <div class="page-6 w-full h-screen">
+      <div class="hed text-center">
+        <h1 class="text-5xl capitalize font-serif w-full">
+          what people are saying
+        </h1>
+      </div>
+
+      <div class="slide w-full ">
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_Terra_1600x1862px_1b9aa182-4950-47e2-b08d-ff6771f43890_large.png?v=1660704444" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-950 text-white h-full">
+          <p>  " My favourite aleph product has to be Ascend. I use it every day as
+            a beautiful lip and cheek tint but I also use it as eyeshadow as it
+            has such a nice warming colour.”
+          </p>
+          <p>carliyi</p>
+         <div class="star">
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+         </div>
+          </div>
+          <div class="imggg w-1/2">
+            <img src="https://alephbeauty.com/cdn/shop/files/ann-maree-quote-4256_large.jpg?v=1660704676" alt="">
+          </div>
+        </div>
+
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_CF-3.0_1600x1862px_large.png?v=1660704956" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-800 h-full">
+          <p>  " My favourite aleph product has to be Ascend. I use it every day as
+            a beautiful lip and cheek tint but I also use it as eyeshadow as it
+            has such a nice warming colour.”
+          </p>
+          <p>carliyi</p>
+         <div class="star">
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+          <i class="ri-star-fill"></i>
+         </div>
+          </div>
+          <div class="imggg w-1/2">
+            <img src="https://alephbeauty.com/cdn/shop/files/Sakura_M_large.jpg?v=1660704898" alt="">
+          </div>
+        </div>
+
+
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/sangha_800x.png?v=1663815801" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-700 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-5 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/6g-Jar_CF-3.0_1600x1862px_large.png?v=1660704956" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-500 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-4 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/Aleph-Mascara-Fan-Brush_3200x3724px_3fe04669-58eb-4075-bb4e-6279bb16be65_large.png?v=1664836371" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-gray-400   h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-3 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/aleph-cl-asc-mm_large.png?v=1663546460" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-red-500 h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-2 w-1/2">
+            
+            </div>
+       
+      </div>
+        <div class="sil flex relative">
+          <div class="circle-img w-80  h-80 rounded-full absolute" id="circle">
+            <img src="https://alephbeauty.com/cdn/shop/files/3g-Jar_Onyx_1600x1862px_large.png?v=1660705514" alt="">
+          </div>
+          <div class="txtt w-1/2 bg-black text-white h-full">
+            <p>  " My favourite aleph product has to be Ascend. I use it every day as
+              a beautiful lip and cheek tint but I also use it as eyeshadow as it
+              has such a nice warming colour.”
+            </p>
+            <p>carliyi</p>
+           <div class="star">
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+            <i class="ri-star-fill"></i>
+           </div>
+            </div>
+            <div class="imggg-1 w-1/2">
+            
+            </div>
+       
+      </div>
+    </div>
