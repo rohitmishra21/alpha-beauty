@@ -8,11 +8,7 @@ var swiper = new Swiper(".mySwiper", {
         disableOnInteraction: false,
         
       },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-      
-    },
+   
   });
 
 function two() {
@@ -27,12 +23,23 @@ function two() {
       disableOnInteraction: false,
       
     },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
+    
   });
+
 
   
 }
-  two()
+
+
+var swiper3 = new Swiper(".mySwiper3", {
+    
+  loop:true,
+
+    autoplay: {
+      delay: 1000,
+      disableOnInteraction: false,
+      
+    },
+  },
+);
+two ()

@@ -20,4 +20,9 @@
     object-fit: cover;
   }
 
-  
+  #tro-1:hover{
+    
+     background-size: cover;
+     background-position: center;
+     
+  }
